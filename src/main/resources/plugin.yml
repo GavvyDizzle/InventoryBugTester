@@ -1,0 +1,4 @@
+name: InventoryBugTester
+version: '${project.version}'
+main: com.github.gavvydizzle.inventorybugtester.InventoryBugTester
+api-version: 1.19
