@@ -1,0 +1,1 @@
+Click in the hotbar of your inventory to open a new one
